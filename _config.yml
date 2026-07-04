@@ -7,3 +7,4 @@ markdown: kramdown
 plugins:
   - jekyll-feed
   - jekyll-sitemap
+repository: ofpix/ins-ofpix
